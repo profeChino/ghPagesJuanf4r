@@ -1,0 +1,11 @@
+Model Information:
+* title:	Telephone-Freepoly.org
+* source:	https://sketchfab.com/3d-models/telephone-freepolyorg-b1e1509d4f664206ac4582f1eed0f0a1
+* author:	Freepoly.org (https://sketchfab.com/blackrray)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Telephone-Freepoly.org" (https://sketchfab.com/3d-models/telephone-freepolyorg-b1e1509d4f664206ac4582f1eed0f0a1) by Freepoly.org (https://sketchfab.com/blackrray) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
